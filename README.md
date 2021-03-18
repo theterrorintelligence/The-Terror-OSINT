@@ -1,4 +1,4 @@
-# OSINT tools :ghost:
+# The Terror OSINT tools :ghost:
 
 ## List of completely amazing tools for performing OSINT 👀 
 
