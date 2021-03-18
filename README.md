@@ -4,7 +4,7 @@
 
 ###### The terror :ghost: promises this list will be updated & expanded from time to time :sunglasses:
 
-`Domain and IP Research`  
+`Domain and IP Research :skull:`  
 https://who.is/  
 https://whois.domaintools.com/  
 https://dnsdumpster.com/  
