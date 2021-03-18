@@ -1,6 +1,8 @@
 # OSINT tools :ghost:
 
-## Below is list of completely amazing tools for performing OSINT 👀 
+## List of completely amazing tools for performing OSINT 👀 
+
+###### This list will be updated & expanded from time to time when I have time. 
 
 `Domain and IP Research`  
 https://who.is/  
