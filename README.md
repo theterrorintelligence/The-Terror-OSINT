@@ -1,6 +1,6 @@
 # OSINT tools :ghost:
 
-## Below is list of amazing tools for performing OSINT 👀 
+## Below is list of completely amazing tools for performing OSINT 👀 
 
 `Domain and IP Research`  
 https://who.is/  
@@ -37,23 +37,25 @@ http://www.cachedpages.com/
 http://archive.is/  
 https://github.com/jsvine/waybackpack  
 
-`VPN Services`  
-https://nordvpn.com/  
-https://openvpn.net/  
-https://surfshark.com/  
-https://protonvpn.com/  
-https://www.torproject.org/  
+`CVE List`  
+https://cve.mitre.org/
+https://www.cvedetails.com/  
+https://nvd.nist.gov/general/nvd-dashboard  
+https://cwe.mitre.org/index.html  
 
-`Notes Taking`  
-https://evernote.com/  
-https://www.giuspen.com/cherrytree/  
-https://www.microsoft.com/en-ww/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1  
-https://workflowy.com/
+`Quick Vulnerability Scanners`  
+https://www.immuniweb.com/  
+https://pentest-tools.com/website-vulnerability-scanning/website-scanner  
+https://hostedscan.com/  
 
-`Code Search`  
-https://github.com/  
-https://searchcode.com/  
-https://github.com/aboul3la/Sublist3r  
+`Reputation Check`
+https://talosintelligence.com/reputation_center  
+https://www.cyren.com/security-center/cyren-ip-reputation-check  
+https://www.ipqualityscore.com/ip-reputation-check/lookup/  
+https://www.virustotal.com/gui/  
+https://www.abuseipdb.com/  
+https://whatismyipaddress.com/blacklist-check  
+https://www.arin.net/reference/materials/abuse/  
 
 `Sock Puppet`  
 https://www.fakepersongenerator.com/  
@@ -67,5 +69,21 @@ https://protonmail.com/
 https://mail.tutanota.com/signup  
 https://www.secure-email.org/index.php?  
 
-`Others`  
-https://www.maltego.com/  
+`Cloud Computing Resources`  
+https://www.digitalocean.com/  
+https://azure.microsoft.com/en-us/services/storage/blobs/  
+https://aws.amazon.com/shield/ddos-attack-protection/?nc1=h_ls  
+https://www.alibabacloud.com/  
+
+`VPN Services`  
+https://nordvpn.com/  
+https://openvpn.net/  
+https://surfshark.com/  
+https://protonvpn.com/  
+https://www.torproject.org/  
+
+`Notes Taking`  
+https://evernote.com/  
+https://www.giuspen.com/cherrytree/  
+https://www.microsoft.com/en-ww/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1  
+https://workflowy.com/
