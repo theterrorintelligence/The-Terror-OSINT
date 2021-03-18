@@ -13,7 +13,7 @@ https://viewdns.info/
 https://www.robtex.com/  
 https://spyse.com/  
 https://securitytrails.com/dns-trails  
-https://pulsedive.com/indicator/?ioc=aHNiYy5jb20=  
+https://pulsedive.com/ 
 https://hackertarget.com/reverse-ip-lookup/  
 https://pentest-tools.com/information-gathering/google-hacking  
 https://www.shodan.io/  
@@ -38,7 +38,7 @@ http://archive.is/
 https://github.com/jsvine/waybackpack  
 
 `CVE List`  
-https://cve.mitre.org/
+https://cve.mitre.org/  
 https://www.cvedetails.com/  
 https://nvd.nist.gov/general/nvd-dashboard  
 https://cwe.mitre.org/index.html  
@@ -64,15 +64,15 @@ https://generated.photos/
 
 `Disposable Email`  
 https://temp-mail.org/  
-https://www.guerrillamail.com/inbox?mail_id=1  
+https://www.guerrillamail.com/   
 https://protonmail.com/  
 https://mail.tutanota.com/signup  
 https://www.secure-email.org/index.php?  
 
 `Cloud Computing Resources`  
 https://www.digitalocean.com/  
-https://azure.microsoft.com/en-us/services/storage/blobs/  
-https://aws.amazon.com/shield/ddos-attack-protection/?nc1=h_ls  
+https://azure.microsoft.com/
+https://aws.amazon.com/
 https://www.alibabacloud.com/  
 
 `VPN Services`  
@@ -85,5 +85,5 @@ https://www.torproject.org/
 `Notes Taking`  
 https://evernote.com/  
 https://www.giuspen.com/cherrytree/  
-https://www.microsoft.com/en-ww/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1  
+https://www.microsoft.com/en-ww/microsoft-365/onenote/
 https://workflowy.com/
