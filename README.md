@@ -1,12 +1,12 @@
 # OSINT tools :ghost:
 
-## Below is list of amazing OSINT tools for many different purpose 👀 
+## Below is list of amazing tools for performing OSINT 👀 
 
 `Domain and IP Research`
-https://who.is/
-https://whois.domaintools.com/
-https://dnsdumpster.com/
-https://intodns.com/hsbc.com
+https://who.is/\
+https://whois.domaintools.com/\
+https://dnsdumpster.com/\
+https://intodns.com/hsbc.com\
 http://www.ipchecking.com/
 https://whatismyipaddress.com/
 https://viewdns.info/
