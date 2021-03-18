@@ -29,7 +29,7 @@ https://github.com/aboul3la/Sublist3r
 https://github.com/projectdiscovery/subfinder  
 https://hakin9.org/rengine-an-automated-recon-framework-for-web-applications/  
 
-`Contacts Information`:clown_face:  
+`Contacts Search`:clown_face:  
 https://github.com/DataSploit/datasploit  
 https://github.com/laramies/theHarvester  
 
@@ -39,7 +39,7 @@ http://www.cachedpages.com/
 http://archive.is/  
 https://github.com/jsvine/waybackpack  
 
-`CVE List`:robot:  
+`CVE`:robot:  
 https://cve.mitre.org/  
 https://www.cvedetails.com/  
 https://nvd.nist.gov/general/nvd-dashboard  
