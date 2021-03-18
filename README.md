@@ -48,7 +48,7 @@ https://www.torproject.org/
 https://evernote.com/  
 https://www.giuspen.com/cherrytree/  
 https://www.microsoft.com/en-ww/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1  
-https://workflowy.com/hello/?2  
+https://workflowy.com/
 
 `Code Search`  
 https://github.com/  
