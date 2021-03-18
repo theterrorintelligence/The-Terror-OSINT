@@ -2,7 +2,7 @@
 
 ## List of completely amazing tools for performing OSINT 👀 
 
-###### The terror :ghost: promises this list will be updated & expanded from time to time :sunglasses:
+###### The terror :ghost: is busy atm. But the terror :ghost: promises the list will be updated & expanded from time to time :sunglasses:
 
 `Domain and IP Search`:skull:  
 https://who.is/  
