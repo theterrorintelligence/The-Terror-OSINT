@@ -2,7 +2,7 @@
 
 ## List of completely amazing tools for performing OSINT 👀 
 
-###### This list will be updated & expanded from time to time when I have time. 
+###### The terror :ghost: promises this list will be updated & expanded from time to time :sunglasses:
 
 `Domain and IP Research`  
 https://who.is/  
