@@ -69,12 +69,12 @@ https://temp-mail.org/
 https://www.guerrillamail.com/   
 https://protonmail.com/  
 https://mail.tutanota.com/signup  
-https://www.secure-email.org/index.php?  
+https://www.secure-email.org/index.php  
 
 `Cloud Computing Resources`:thought_balloon:  
 https://www.digitalocean.com/  
-https://azure.microsoft.com/
-https://aws.amazon.com/
+https://azure.microsoft.com/  
+https://aws.amazon.com/  
 https://www.alibabacloud.com/  
 
 `VPN Services`:pray:  
@@ -87,5 +87,5 @@ https://www.torproject.org/
 `Notes Taking`:smirk_cat:  
 https://evernote.com/  
 https://www.giuspen.com/cherrytree/  
-https://www.microsoft.com/en-ww/microsoft-365/onenote/
+https://www.microsoft.com/en-ww/microsoft-365/onenote/  
 https://workflowy.com/
