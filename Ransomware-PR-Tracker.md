@@ -42,7 +42,7 @@ Suncrypt: Up
 
 MAZE: Down  
 Egregor: Down  
-NetWalker: Down
+NetWalker: Down  
 DarkSide: Down   
 Ragnarok: Down  
 Everest: Down  
