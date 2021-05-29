@@ -7,38 +7,35 @@
 Avaddo: Active
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/e051e135891b7530ff6eca4a09b785b9f05da1d0/Avaddon.png)
 
-Astro Team: Active
+Astro Team: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/e051e135891b7530ff6eca4a09b785b9f05da1d0/Astro%20Team.png)
 
-Bakuk: Active
+Bakuk: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/e051e135891b7530ff6eca4a09b785b9f05da1d0/Bakuk.png)
 
-CL0P: Active
-![](The-Terror-OSINT/CL0P.png)
+CL0P: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/CL0P.png)
 
-Conti: Active
-![](The-Terror-OSINT/Conti.png)
+Conti: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/Conti.png)
 
-DoppelPaymer: Active
-![](The-Terror-OSINT/DoppelPaymer.png)
+DoppelPaymer: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/DoppelPaymer.png)
 
-File Leak: Active
-![](The-Terror-OSINT/File Leak.png)
+File Leak: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/File%20Leak.png)
 
-Mount Locker: Active
-![](The-Terror-OSINT/Mount Locker.png)
+Mount Locker: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/Mount%20Locker.png)
 
-REvil: Active
-![](The-Terror-OSINT/REvil.png)
+REvil: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/REvil.png)
 
-Ragnar_Locker: Active
-![](The-Terror-OSINT/Ragnar_Locker.png)
+Ragnar_Locker: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/Ragnar_Locker.png)
 
-RansomEXX: Active
-![](The-Terror-OSINT/RansomEXX.png)
+RansomEXX: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/RansomEXX.png)
 
-Suncrypt: Active
-![](The-Terror-OSINT/Suncrypt.png)
-
-File Leak: Active
-![](The-Terror-OSINT/File Leak.png)
+Suncrypt: Up
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/Suncrypt.png)
