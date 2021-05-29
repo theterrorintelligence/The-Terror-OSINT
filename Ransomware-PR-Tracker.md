@@ -40,17 +40,17 @@ RansomEXX: Up
 Suncrypt: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/2c2f25392b89329df0880cae065e970a984c1251/Suncrypt.png)
 
-MAZE: Down
-Egregor: Down
-Pysa: Down
-NetWalker: Down
-DarkSide: Down
-Ragnarok: Down
-Everest: Down
-LV: Down
-Marketo: Down
-AKO: Down
-Team Snatch: Down
-Sekhmet: Down
-N3tw0rm: Down
-NEMTY: Down
+MAZE: Down  
+Egregor: Down  
+Pysa: Down  
+NetWalker: Down  
+DarkSide: Down  
+Ragnarok: Down  
+Everest: Down  
+LV: Down  
+Marketo: Down  
+AKO: Down  
+Team Snatch: Down  
+Sekhmet: Down  
+N3tw0rm: Down  
+NEMTY: Down  
