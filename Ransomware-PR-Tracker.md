@@ -1,8 +1,17 @@
+# Ransomware PR Tracker :ghost:
+
+## Updated on 2021-05-29👀 
+
+###### The terror :ghost: is busy atm. But the terror :ghost: promises the list will be updated & expanded from time to time :sunglasses:
+
 Avaddo: Active
-<img scr="The-Terror-OSINT/Astro Team.png">
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/e051e135891b7530ff6eca4a09b785b9f05da1d0/Avaddon.png)
+
+Astro Team: Active
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/e051e135891b7530ff6eca4a09b785b9f05da1d0/Astro%20Team.png)
 
 Bakuk: Active
-![](The-Terror-OSINT/Bakuk.png)
+![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/e051e135891b7530ff6eca4a09b785b9f05da1d0/Bakuk.png)
 
 CL0P: Active
 ![](The-Terror-OSINT/CL0P.png)
