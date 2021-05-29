@@ -42,9 +42,8 @@ Suncrypt: Up
 
 MAZE: Down  
 Egregor: Down  
-Pysa: Down  
-NetWalker: Down  
-DarkSide: Down  
+NetWalker: Down
+DarkSide: Down   
 Ragnarok: Down  
 Everest: Down  
 LV: Down  
