@@ -17,8 +17,10 @@ https://spyse.com/
 https://securitytrails.com/dns-trails  
 https://pulsedive.com/ 
 https://hackertarget.com/reverse-ip-lookup/  
-https://pentest-tools.com/information-gathering/google-hacking  
-https://www.shodan.io/  
+https://pentest-tools.com/information-gathering/google-hacking
+https://pentest-tools.com/information-gathering/find-domains-owned-by-company
+https://www.shodan.io/
+
 
 `Reconnaissance Framework`:smiling_imp:  
 https://github.com/lanmaster53/recon-ng  
