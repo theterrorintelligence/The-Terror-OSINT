@@ -4,7 +4,7 @@
 
 ###### The terror :ghost: is busy atm. But the terror :ghost: promises the list will be updated & expanded from time to time :sunglasses:
 
-Avaddo: Active
+Avaddon: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/Avaddon.png)
 
 Astro Team: Up
