@@ -10,7 +10,7 @@ Avaddo: Active
 Astro Team: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/52f987367565295d195b1a5ff2558906c5555990/AstroTeam.png)
 
-Bakuk: Up
+Bakuk: Up  
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/Bakuk.png)
 
 CL0P: Up  
@@ -28,7 +28,7 @@ File Leak: Up
 Mount Locker: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/Mount%20Locker.png)
 
-REvil: Up
+REvil: Up  
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/REvil.png)
 
 Ragnar_Locker: Up
@@ -37,7 +37,7 @@ Ragnar_Locker: Up
 RansomEXX: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/RansomEXX.png)
 
-Suncrypt: Up
+Suncrypt: Up  
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/Suncrypt.png)
 
 MAZE: Down  
