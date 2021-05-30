@@ -22,7 +22,7 @@ Conti: Up
 DoppelPaymer: Up  
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/DoppelPaymer.png)
 
-File Leak: Up
+File Leaks: Up
 ![](https://github.com/theterrorintelligence/The-Terror-OSINT/blob/685e66387433c8bd03c8691818aeeb1967c770a6/File%20Leak.png)
 
 Mount Locker: Up
