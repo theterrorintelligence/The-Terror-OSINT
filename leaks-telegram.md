@@ -30,7 +30,6 @@ https://t.me/AntiPlumbers
 https://t.me/NullLeak  
 https://t.me/marketo_leaks  
 https://t.me/We_are_not_eternal  
-https://t.me/joinchat/UhP5kie2OiRetosa  
 https://t.me/BruteForce  
 https://t.me/icrewhackers  
 https://t.me/leaklicks/  
